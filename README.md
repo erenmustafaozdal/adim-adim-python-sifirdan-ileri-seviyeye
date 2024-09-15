@@ -17,7 +17,7 @@ Python programlamaya sıfırdan başlayarak, adım adım kolay anlaşılır bir 
 
 ## Kurs İçeriği
 
-### 1. Kursa Giriş
+### 1. [Kursa Giriş](/src/Bölüm_01_Kursa_Giriş)
 
 - Giriş
 - Kurs Tanıtımı
