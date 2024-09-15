@@ -12,4 +12,4 @@ Bu bölümde, Python programlamaya başlamadan önce ihtiyaç duyabileceğiniz t
 
 - [Bilgisayar Bileşenleri](/src/Bölüm_02_Temel_Bilgiler/Konu_01_Bilgisayar_Bileşenleri)
 - [Algoritma Nedir?](/src/Bölüm_02_Temel_Bilgiler/Konu_02_Algoritma_Nedir)
-- Python’a Genel Bakış
+- [Python’a Genel Bakış](/src/Bölüm_02_Temel_Bilgiler/Konu_03_Pythona_Genel_Bakış)
