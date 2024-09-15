@@ -22,7 +22,7 @@ Python programlamaya sıfırdan başlayarak, adım adım kolay anlaşılır bir 
 - Giriş
 - Kurs Tanıtımı
 
-### 2. Temel Bilgiler
+### 2. [Temel Bilgiler](/src/Bölüm_02_Temel_Bilgiler)
 
 - Bilgisayar Bileşenleri
 - Algoritma Nedir?
