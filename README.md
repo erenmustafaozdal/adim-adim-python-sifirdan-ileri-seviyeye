@@ -30,7 +30,7 @@ Python programlamaya sıfırdan başlayarak, adım adım kolay anlaşılır bir 
 
 ### 3. [Kurulumlar](/src/Bölüm_03_Kurulumlar)
 
-- Python Kurulumu
+- [Python Kurulumu](/src/Bölüm_03_Kurulumlar/Konu_01_Python_Kurulumu)
 - Editör Kurulumu
 
 ### 4. İlk Python Programı
