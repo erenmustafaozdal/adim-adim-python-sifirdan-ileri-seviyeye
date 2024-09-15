@@ -28,7 +28,7 @@ Python programlamaya sıfırdan başlayarak, adım adım kolay anlaşılır bir 
 - [Algoritma Nedir?](/src/Bölüm_02_Temel_Bilgiler/Konu_02_Algoritma_Nedir)
 - [Python’a Genel Bakış](/src/Bölüm_02_Temel_Bilgiler/Konu_03_Pythona_Genel_Bakış)
 
-### 3. Kurulumlar
+### 3. [Kurulumlar](/src/Bölüm_03_Kurulumlar)
 
 - Python Kurulumu
 - Editör Kurulumu
