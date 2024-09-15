@@ -24,7 +24,7 @@ Python programlamaya sıfırdan başlayarak, adım adım kolay anlaşılır bir 
 
 ### 2. [Temel Bilgiler](/src/Bölüm_02_Temel_Bilgiler)
 
-- Bilgisayar Bileşenleri
+- [Bilgisayar Bileşenleri](/src/Bölüm_02_Temel_Bilgiler/Konu_01_Bilgisayar_Bileşenleri)
 - Algoritma Nedir?
 - Python’a Genel Bakış
 
