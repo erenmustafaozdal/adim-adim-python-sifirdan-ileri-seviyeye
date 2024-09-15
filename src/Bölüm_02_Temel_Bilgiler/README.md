@@ -11,5 +11,5 @@ Bu bölümde, Python programlamaya başlamadan önce ihtiyaç duyabileceğiniz t
 ## Konu Başlıkları
 
 - [Bilgisayar Bileşenleri](/src/Bölüm_02_Temel_Bilgiler/Konu_01_Bilgisayar_Bileşenleri)
-- Algoritma Nedir?
+- [Algoritma Nedir?](/src/Bölüm_02_Temel_Bilgiler/Konu_02_Algoritma_Nedir)
 - Python’a Genel Bakış
