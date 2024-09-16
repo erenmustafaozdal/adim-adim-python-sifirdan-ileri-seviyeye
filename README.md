@@ -40,8 +40,8 @@ Python programlamaya sıfırdan başlayarak, adım adım kolay anlaşılır bir 
 
 ### 5. Python'da Girdi ve Çıktı İşlemleri
 
-- Çıktı Alma (print ile detaylı anlatım)
-- Kullanıcıdan Girdi Alma (input ile kullanıcıdan veri toplama)
+- Çıktı Alma
+- Kullanıcıdan Girdi Alma
 
 ### 6. Python'da Veri Tipleri
 
