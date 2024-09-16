@@ -12,5 +12,5 @@ Bu bölümle birlikte Python'da ilk kodlarınızı yazmaya başlayarak temel pro
 
 ## Konu Başlıkları
 
-- Python REPL ve Terminal Kullanımı
+- [Python REPL ve Terminal Kullanımı](/src/Bölüm_04_İlk_Python_Programı/Konu_01_Python_REPL_ve_Terminal_Kullanımı)
 - İlk Python Programı (Hello World ve Çıktı Alma)
