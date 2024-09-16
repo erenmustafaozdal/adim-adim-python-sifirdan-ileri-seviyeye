@@ -33,7 +33,7 @@ Python programlamaya sıfırdan başlayarak, adım adım kolay anlaşılır bir 
 - [Python Kurulumu](/src/Bölüm_03_Kurulumlar/Konu_01_Python_Kurulumu)
 - [Editör Kurulumu (VS Code)](/src/Bölüm_03_Kurulumlar/Konu_02_Editör_Kurulumu)
 
-### 4. İlk Python Programı
+### 4. [İlk Python Programı](/src/Bölüm_04_İlk_Python_Programı)
 
 - Python REPL ve Terminal Kullanımı
 - İlk Python Programı (Hello World ve Çıktı Alma)
