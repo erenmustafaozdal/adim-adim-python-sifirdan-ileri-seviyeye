@@ -12,4 +12,4 @@ Bu sayede, Python kodlamaya başlamak için ihtiyacınız olan tüm yazılım ar
 ## Konu Başlıkları
 
 - [Python Kurulumu](/src/Bölüm_03_Kurulumlar/Konu_01_Python_Kurulumu)
-- Editör Kurulumu
+- [Editör Kurulumu (VS Code)](/src/Bölüm_03_Kurulumlar/Konu_02_Editör_Kurulumu)
