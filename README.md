@@ -41,7 +41,7 @@ Python programlamaya sıfırdan başlayarak, adım adım kolay anlaşılır bir 
 ### 5. Python'da Girdi ve Çıktı İşlemleri
 
 - [Çıktı Alma](/src/Bölüm_05_Pythonda_Girdi_ve_Çıktı_İşlemleri/Konu_01_Çıktı_Alma)
-- Kullanıcıdan Girdi Alma
+- [Kullanıcıdan Girdi Alma](/src/Bölüm_05_Pythonda_Girdi_ve_Çıktı_İşlemleri/Konu_02_Kullanıcıdan_Girdi_Alma)
 
 ### 6. Python'da Veri Tipleri
 

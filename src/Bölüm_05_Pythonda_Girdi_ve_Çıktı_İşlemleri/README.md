@@ -12,4 +12,4 @@ Bu bölümün sonunda, kullanıcı ile etkileşimli programlar yazabilecek ve Py
 ## Konu Başlıkları
 
 - [Çıktı Alma](/src/Bölüm_05_Pythonda_Girdi_ve_Çıktı_İşlemleri/Konu_01_Çıktı_Alma)
-- Kullanıcıdan Girdi Alma
+- [Kullanıcıdan Girdi Alma](/src/Bölüm_05_Pythonda_Girdi_ve_Çıktı_İşlemleri/Konu_02_Kullanıcıdan_Girdi_Alma)
