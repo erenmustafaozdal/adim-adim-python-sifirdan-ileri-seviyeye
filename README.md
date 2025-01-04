@@ -38,7 +38,7 @@ Python programlamaya sıfırdan başlayarak, adım adım kolay anlaşılır bir 
 - [Python REPL ve Terminal Kullanımı](/src/Bölüm_04_İlk_Python_Programı/Konu_01_Python_REPL_ve_Terminal_Kullanımı)
 - [İlk Python Programı (Hello World ve Çıktı Alma)](/src/Bölüm_04_İlk_Python_Programı/Konu_02_İlk_Python_Programı_Hello_World_ve_Çıktı_Alma)
 
-### 5. Python'da Girdi ve Çıktı İşlemleri
+### 5. [Python'da Girdi ve Çıktı İşlemleri](/src/Bölüm_05_Pythonda_Girdi_ve_Çıktı_İşlemleri/)
 
 - [Çıktı Alma](/src/Bölüm_05_Pythonda_Girdi_ve_Çıktı_İşlemleri/Konu_01_Çıktı_Alma)
 - [Kullanıcıdan Girdi Alma](/src/Bölüm_05_Pythonda_Girdi_ve_Çıktı_İşlemleri/Konu_02_Kullanıcıdan_Girdi_Alma)
