@@ -51,7 +51,7 @@ print("Verinin tipi:", type(metin))  # Çıktı: <class 'str'>
 ```python
 # Birleştirme
 ad = "Eren"
-soyad = "Yılmaz"
+soyad = "Özdal"
 tam_isim = ad + " " + soyad
 print("Tam İsim:", tam_isim)
 
