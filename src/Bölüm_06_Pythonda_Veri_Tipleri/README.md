@@ -24,6 +24,6 @@ Bu bilgiler, veri tiplerini anlamanızı ve projelerde daha etkili bir şekilde 
 - [Karakter Dizileri (str)](/src/Bölüm_06_Pythonda_Veri_Tipleri/Konu_03_Karakter_Dizileri/)
 - [Boolean](/src/Bölüm_06_Pythonda_Veri_Tipleri/Konu_04_Boolean/)
 - [Listeler](/src/Bölüm_06_Pythonda_Veri_Tipleri/Konu_05_Listeler/)
-- Sözlükler
+- [Sözlükler](/src/Bölüm_06_Pythonda_Veri_Tipleri/Konu_06_Sözlükler/)
 - Demetler
 - Kümeler
