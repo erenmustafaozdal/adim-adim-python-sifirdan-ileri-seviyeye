@@ -74,7 +74,7 @@ print("42'nin türü:", type(42))  # Çıktı: <class 'int'>
 print("3.14'ün türü:", type(3.14))  # Çıktı: <class 'float'>
 ```
 
-## 7. Özet
+## Özet
 
 - `int`, tam sayıları temsil eder.
 - `float`, ondalıklı sayıları temsil eder.
