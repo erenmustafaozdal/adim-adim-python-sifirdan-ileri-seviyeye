@@ -20,7 +20,7 @@ Bu bilgiler, veri tiplerini anlamanızı ve projelerde daha etkili bir şekilde 
 ## Konu Başlıkları
 
 - [Veri Tiplerini Kontrol Etme (type() işlevi)](/src/Bölüm_06_Pythonda_Veri_Tipleri/Konu_01_Veri_Tiplerini_Kontrol_Etme/)
-- Sayı Veri Tipleri (int, float, complex)
+- [Sayı Veri Tipleri (int, float)](/src/Bölüm_06_Pythonda_Veri_Tipleri/Konu_02_Sayı_Veri_Tipleri/)
 - Karakter Dizileri (str)
 - Boolean
 - Listeler
