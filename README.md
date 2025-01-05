@@ -43,9 +43,9 @@ Python programlamaya sıfırdan başlayarak, adım adım kolay anlaşılır bir 
 - [Çıktı Alma](/src/Bölüm_05_Pythonda_Girdi_ve_Çıktı_İşlemleri/Konu_01_Çıktı_Alma)
 - [Kullanıcıdan Girdi Alma](/src/Bölüm_05_Pythonda_Girdi_ve_Çıktı_İşlemleri/Konu_02_Kullanıcıdan_Girdi_Alma)
 
-### 6. Python'da Veri Tipleri
+### 6. [Python'da Veri Tipleri](/src/Bölüm_06_Pythonda_Veri_Tipleri/)
 
-- Veri Tiplerini Kontrol Etme (type() işlevi)
+- [Veri Tiplerini Kontrol Etme (type() işlevi)](/src/Bölüm_06_Pythonda_Veri_Tipleri/Konu_01_Veri_Tiplerini_Kontrol_Etme/)
 - Sayı Veri Tipleri (int, float, complex)
 - Karakter Dizileri (str)
 - Boolean
