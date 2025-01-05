@@ -23,7 +23,7 @@ Bu bilgiler, veri tiplerini anlamanızı ve projelerde daha etkili bir şekilde 
 - [Sayı Veri Tipleri (int, float)](/src/Bölüm_06_Pythonda_Veri_Tipleri/Konu_02_Sayı_Veri_Tipleri/)
 - [Karakter Dizileri (str)](/src/Bölüm_06_Pythonda_Veri_Tipleri/Konu_03_Karakter_Dizileri/)
 - [Boolean](/src/Bölüm_06_Pythonda_Veri_Tipleri/Konu_04_Boolean/)
-- Listeler
+- [Listeler](/src/Bölüm_06_Pythonda_Veri_Tipleri/Konu_05_Listeler/)
 - Sözlükler
 - Demetler
 - Kümeler
