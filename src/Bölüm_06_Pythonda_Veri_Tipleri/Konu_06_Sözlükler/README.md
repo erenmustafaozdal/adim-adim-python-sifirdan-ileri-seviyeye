@@ -53,6 +53,16 @@ ogrenci["yas"] = 22
 print(ogrenci)
 ```
 
+## **Sözlük Elemanlarını Silme**
+
+Sözlükten bir elemanı silmek için `del` anahtar kelimesi kullanılır.
+
+```python
+# Eleman silme
+del ogrenci["ders"]
+print(ogrenci)
+```
+
 ## **Sözlük Uzunluğu**
 
 Bir sözlükteki anahtar-değer çiftlerinin sayısını öğrenmek için `len()` fonksiyonu kullanılır.
